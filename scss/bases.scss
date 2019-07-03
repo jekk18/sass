@@ -1,0 +1,36 @@
+%flex1{
+    display: flex;
+}
+%flex-aling{
+    align-items: center;
+}
+%flex3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+%flex4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+%text-upper{
+    text-transform: uppercase;
+}
+%nav-atr{
+    font-size: 24px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+%container{
+    width: 100%;
+    height: 90px;
+    padding: 0 8%;
+    background-color: #BDCCD4;
+}
+%transition{
+    transition: all 0.5s ease; 
+}
+%transition2{
+    transition: all 0.3s linear; 
+}
